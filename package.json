@@ -1,0 +1,27 @@
+{
+  "name": "@byted/qrcode-generator",
+  "version": "1.0.0",
+  "description": "A tool for generating qrcode. Support to render canvas, display image, download image file and execute callback, upload image file and execute callback, add customized picture to the center of the qrcode and etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcidea/qrcode-generator.git"
+  },
+  "keywords": [
+    "qrcode",
+    "generator",
+    "base64",
+    "Blob",
+    "FormData",
+    "canvas"
+  ],
+  "author": "gaochang.gcidea@bytedance.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcidea/qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/gcidea/qrcode-generator#readme"
+}
