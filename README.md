@@ -58,7 +58,10 @@ Based on https://www.npmjs.com/package/qrcode
 
 >@return canvasInstance or {}
 
+* destroy(id)
 
+>销毁二维码实例并清空画布
 
+>@param id Canvas画布id
 
-
+>@returns
